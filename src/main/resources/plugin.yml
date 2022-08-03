@@ -1,0 +1,4 @@
+name: JarRunner
+version: '${version}'
+main: io.github.fisher2911.jarrunner.JarRunner
+api-version: 1.16
